@@ -1,0 +1,11 @@
+.red{
+    color: red;
+    :global {
+        .blue{
+            color: blue;
+        }
+        .orange{
+            color: yellow;
+        }
+    }
+}
